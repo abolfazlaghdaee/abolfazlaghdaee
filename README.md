@@ -1,4 +1,4 @@
-<h3/> Hi guys I'm Abolfazl <h3/><br><hr>
+<h3/> Hi guys I'm Abolfazl <h3/><hr>
 <p/>if you want to send me message you can use: <p/>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazlaghdaee/)
