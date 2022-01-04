@@ -1,5 +1,2 @@
-Hi guys I'm Abolfazl 
-If you want you can connect me by  Ga
- 
- <h1>ajfla<h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siniorone&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="siniorone" /></p>
  
