@@ -5,3 +5,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abolfazlaghdaee2001@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abolfazlaghdaee" alt="abolfazlaghdaee" /> </p>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siniorone&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="siniorone" /></p>
+</div>
