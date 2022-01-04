@@ -6,5 +6,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abolfazlaghdaee" alt="abolfazlaghdaee" /> </p>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siniorone&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="siniorone" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazlaghdaee&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="abolfazlaghdaee" /></p>
 </div>
