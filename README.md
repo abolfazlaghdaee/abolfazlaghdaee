@@ -1,4 +1,4 @@
-<h2/> Hi guys I'm Abolfazl <h2/><hr>
+<h2/> Hi guys I'm Abolfazl <h2/>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazlaghdaee/)
