@@ -1,4 +1,4 @@
-<h2 align = 'center'/> Hi guys I'm Abolfazl <h2/>
+<h2 align = 'left'/> Hi guys I'm Abolfazl <h2/>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazlaghdaee/)
@@ -7,26 +7,5 @@
 <img  width=30px  src="https://user-images.githubusercontent.com/69028985/148116416-614b7013-bcce-475f-ba6f-0316bd27e425.png" alt="abolfazlaghdaee" />
 
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 
-
-<div display="inline" text-align= 'center'>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazlaghdaee&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="abolfazlaghdaee" /></p>
-</div> -->
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazlaghdaee&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="abolfazlaghdaee" />
 
