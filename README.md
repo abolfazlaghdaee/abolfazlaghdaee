@@ -2,7 +2,7 @@
 <!--   <img  width=30px  src="https://user-images.githubusercontent.com/69028985/148116416-614b7013-bcce-475f-ba6f-0316bd27e425.png" alt="abolfazlaghdaee" /> -->
 </h2>
 
-Cs student 
+I'm interested in research & learning
 
 
 <a href="instagram.com">
