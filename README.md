@@ -11,7 +11,7 @@ I'm interested in research & learning
 <a href="mailto:abolfazlaghdaee2001@gmail.com">
   <img width="30px" align="left" src="https://cdn.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg">
 </a>
-<a href="https://www.linkedin.com/in/abolfazl-aghdaee/"  target='#'>
+<a href="https://www.linkedin.com/in/abolfazl-aghdaee/"  target='_blank'>
   <img alt="Abolfazl's LinkedIN" width="30px" align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a >
 
