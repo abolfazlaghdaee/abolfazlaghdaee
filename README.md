@@ -1,4 +1,4 @@
-<h2 align='left' style="color:blue;"> Hey there I'm Abolfazl <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- <h2 align='left' style="color:blue;"> Hey there I'm Abolfazl <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--   <img  width=30px  src="https://user-images.githubusercontent.com/69028985/148116416-614b7013-bcce-475f-ba6f-0316bd27e425.png" alt="abolfazlaghdaee" /> -->
 </h2>
 
@@ -20,3 +20,4 @@
 </a>
 
 
+ -->
