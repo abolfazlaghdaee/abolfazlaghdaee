@@ -3,15 +3,15 @@
  -->
 
 ## Abolfazl Aghdaee 
-#### 👋 Hi there
+### 👋 Hi there
 - 💻  I’m currently a Computer Science student, with a focus on Machine Learning and Deep Learning.
-- 🌱  I’m currently diving deeper into Neural Networks, and realted area.
+- 🌱  I’m currently diving deeper into Neural Networks, and related area.
 
 
-#### ⚙️ Tech Skills 
+### ⚙️ Tech Skills 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,pytorch,tensorflow,sklearn,ubuntu,vscode,opencv,cpp,git,github,linux,bootstrap,html,css&perline=8)](https://skillicons.dev)
 <!-- ![My Skills](https://skillicons.dev/icons?i=opencv,cpp,git,github,linux,bootstrap,html,css) -->
 
 
-#### 📫 Contact
+### 📫 Contact
 ![My Skills](https://skillicons.dev/icons?i=linkedin)
