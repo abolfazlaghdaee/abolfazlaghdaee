@@ -9,8 +9,8 @@
 
 
 #### ⚙️ Tech Skills 
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,pytorch,tensorflow,sklearn,ubuntu,vscode)](https://skillicons.dev)
-![My Skills](https://skillicons.dev/icons?i=bootstrap,cpp,git,github,linux,opencv,html,css)
+[![My Skills](https://skillicons.dev/icons?i=py,anaconda,pytorch,tensorflow,sklearn,ubuntu,vscode,opencv,cpp,git,github,linux,bootstrap,html,css&perline=8)](https://skillicons.dev)
+<!-- ![My Skills](https://skillicons.dev/icons?i=opencv,cpp,git,github,linux,bootstrap,html,css) -->
 
 
 #### 📫 Contact
